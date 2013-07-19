@@ -9,7 +9,7 @@
   },
   "keywords": ["mongodb", "database", "ODM"],
   "dependencies": {
-    "mongodb": "0.9.9-2",
+    "mongodb": "latest",
     "resourceful": "git://github.com/flatiron/resourceful.git"
   },
   "devDependencies": {
